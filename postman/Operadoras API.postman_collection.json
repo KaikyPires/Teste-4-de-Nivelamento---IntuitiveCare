@@ -1,0 +1,41 @@
+{
+	"info": {
+		"_postman_id": "dbafab1f-bccf-42da-b309-a0f9fc8a0fa5",
+		"name": "Operadoras API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "37209101"
+	},
+	"item": [
+		{
+			"name": "Buscar Operadora",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/buscar?q=Unimed",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"buscar"
+					],
+					"query": [
+						{
+							"key": "q",
+							"value": "Unimed"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
