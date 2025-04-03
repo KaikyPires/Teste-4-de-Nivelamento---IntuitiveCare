@@ -56,6 +56,8 @@ Este repositório contém a solução para o teste de busca de operadoras de sa�
 
 ├── 📁 api          # Aplicação Flask
 
+├── 📁 assets         # Imagens
+
 ├── 📁 postman          # Arquivo da coleção Postman
 
 ├── 📄 Relatorio_cadop.csv   # Arquivo CSV com dados das operadoras
