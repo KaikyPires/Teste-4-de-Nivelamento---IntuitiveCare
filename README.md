@@ -111,11 +111,5 @@ http://127.0.0.1:5000/buscar?q=Unimed
 ### Pesquisa em Funcionamento
 ![Pesquisa](assets/pesquisa.png)
 
-## Conclusão
-
-Todas as tasks foram concluídas com sucesso. A aplicação está funcional, retornando os dados esperados através da integração entre frontend e backend. Além disso, o projeto foi documentado adequadamente e testado com o Postman.
-
----
-
 
 
