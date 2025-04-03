@@ -53,9 +53,13 @@ Este repositório contém a solução para o teste de busca de operadoras de sa�
 
 
 ├── 📁 frontend         # Aplicação Vue.js
+
 ├── 📁 api          # Aplicação Flask
+
 ├── 📁 postman          # Arquivo da coleção Postman
+
 ├── 📄 Relatorio_cadop.csv   # Arquivo CSV com dados das operadoras
+
 ├── 📄 README.md        # Este arquivo
 
 
@@ -97,12 +101,13 @@ http://127.0.0.1:5000/buscar?q=Unimed
 
 ## Prints do Frontend
 
-![alt text](assets\image.png)
+![Tela Inicial](assets/image.png)
 
+### Tema Escuro
+![Tema Escuro](assets/temaescuro.png)
 
-![alt text](assets\temaescuro.png)
-
-![alt text](assets\pesquisa.png)
+### Pesquisa em Funcionamento
+![Pesquisa](assets/pesquisa.png)
 
 ## Conclusão
 
